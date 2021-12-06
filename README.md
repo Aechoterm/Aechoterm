@@ -29,7 +29,5 @@ Aechoterm（中文名：闪令）是一款免费的、跨平台的，以SSH、SF
   - 自定义会话设置
   - 多语言输出
   - 高亮显示
-# 使用指南
-https://mp.weixin.qq.com/s/xTHHPMJZnl0M5TdQVh-X9A
 # 官网
 http://ec.nantian.com.cn
