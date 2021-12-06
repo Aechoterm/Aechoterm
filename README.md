@@ -30,4 +30,4 @@ Aechoterm（中文名：闪令）是一款免费的、跨平台的，以SSH、SF
   - 多语言输出
   - 高亮显示
 # 官网
-http://ec.nantian.com.cn
+https://ec.nantiangzzx.com
