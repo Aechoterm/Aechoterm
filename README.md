@@ -118,14 +118,3 @@ https://ec.nantian.com.cn
 - 多种终端类型可选、自定义字体大小行数等。
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/94167606/148322958-88cd2890-ddee-4f73-9385-090e86ccd302.png">
 
-11. 快捷键
-- Ctrl + M -- 回车
-- Ctrl + R -- 显示上一条命令
-- Ctrl + H -- 删除光标前的1个字符
-- Ctrl + L -- 清屏
-- Ctrl + A -- 选中所有文件或文件夹
-- Ctrl + C -- 复制文件或文件夹
-- Ctrl + V -- 粘贴文件或文件夹
-- F5 -- 刷新文件列表
-- F2 -- 重命名
-- Delete -- 删除选中文件或文件夹
