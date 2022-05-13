@@ -4,3 +4,5 @@ Aechoterm（闪令）是一款免费的、跨平台的，以SSH、SFTP协议访�
 中文免费，风格简约，自带sftp，安全稳定，Windows/macOS/Linux多平台可用。
 # 官网
 https://ec.nantian.com.cn
+# 功能演示
+https://ec.nantian.com.cn/#/about
